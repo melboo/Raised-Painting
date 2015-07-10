@@ -1,14 +1,14 @@
 Met + Parsons Museum Accessibility Collaboration Workshop
 ===
 
-Parsons, The New School For Design  
-August 9, 2014
+Metropolitan Museum, Parsons School for Design
+Fall, 2013
 
 ## Workshop
 
 What expectations do people with disabilities have when they visit museums? How are museums adapting new technologies to better serve our visitors, whatever their abilities and interests? How can the Met take a leadership role in introducing standards for inclusivity to the next generation of museum technologists? These are some of the questions we asked ourselves when embarking on the Met + Parsons Museum Accessibility Collaboration Workshop.
 
-([Project website Metropolitan Museum of Art](http://www.metmuseum.org/about-the-museum/museum-departments/office-of-the-director/digital-media-department/digital-underground/2014/met-parsons-workshop))
+[Project website Metropolitan Museum of Art](http://www.metmuseum.org/about-the-museum/museum-departments/office-of-the-director/digital-media-department/digital-underground/2014/met-parsons-workshop)
 
 ![alt tag](http://www.metmuseum.org/~/media/Images/Blogs/Digital%20Media/2014/Met%20Parsons%201/7.jpg)
 
@@ -22,7 +22,7 @@ Image: Gertrude Stein by Pablo Picasso, 1905-6
 Oil on Canvas
 
 
-<p>This project was done in collaboration with ([Seungkyun Lee](http://www.skleedesign.com)), ([Sarah Wever](http://cargocollective.com/SarahWever)), and ([Rachel Darmody](http://racheldarmody.com/)).
+<p>This project was done in collaboration with [Seungkyun Lee](http://www.skleedesign.com), [Sarah Wever](http://cargocollective.com/SarahWever), and [Rachel Darmody](http://racheldarmody.com/).
 
 ![alt tag](http://melaniebossert.com/wp-content/uploads/projects/760_01.jpg)
 
